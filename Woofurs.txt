@@ -1,0 +1,1 @@
+./Release/OtherBreed.cpp.o ./Release/Husky.cpp.o ./Release/AlaskanMAlamute.cpp.o ./Release/Akita.cpp.o ./Release/ChowChow.cpp.o ./Release/Pitbull.cpp.o ./Release/GreatDane.cpp.o ./Release/DogFactory.cpp.o ./Release/PresaCanario.cpp.o ./Release/Rottweiler.cpp.o ./Release/main.cpp.o ./Release/Doberman.cpp.o ./Release/Dog.cpp.o ./Release/GermanShepherd.cpp.o
