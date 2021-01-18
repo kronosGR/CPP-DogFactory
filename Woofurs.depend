@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1585482445 source:/media/kronos/BKP/BackupImportant/DEVlocal/c++/Woofurs/src/Dog.cpp
+	<iostream>
+	"Dog.h"
+
+1585482412 /media/kronos/BKP/BackupImportant/DEVlocal/c++/Woofurs/include/Dog.h
+
+1585492822 source:/media/kronos/BKP/BackupImportant/DEVlocal/c++/Woofurs/main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	"DogFactory.h"
+
+1585492775 /media/kronos/BKP/BackupImportant/DEVlocal/c++/Woofurs/include/DogFactory.h
+
+1585492984 source:/media/kronos/BKP/BackupImportant/DEVlocal/c++/Woofurs/src/DogFactory.cpp
+	<iostream>
+	"DogFactory.h"
+
